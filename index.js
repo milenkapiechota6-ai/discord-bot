@@ -24,7 +24,7 @@ const client = new Client({
 // USTAWIENIA
 // =====================================================
 
-const TOKEN = 'MTUzMzUxMzQwNDY1OTAxMTc3Ng.GoWnbw.UhhMv3kbcqpMbBYJSvLa6SigiscRXxrhd9-rhk';
+const TOKEN = process.env.TOKEN;
 
 const CLIENT_ID = '1533513404659011776';
 const GUILD_ID = '1532465455086960750';
