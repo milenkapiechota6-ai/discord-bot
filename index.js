@@ -32,7 +32,7 @@ const client = new Client({
 // USTAWIENIA
 // =====================================================
 
-const TOKEN = 'TUTAJ_WKLEJ_NOWY_TOKEN_BOTA';
+const TOKEN = 'MTUzMzUxMzQwNDY1OTAxMTc3Ng.GTVUSl.M4QFsh1eE3T1ouMYVDg0cuPz4aAtccQNFEqHJM';
 
 const CLIENT_ID = '1533513404659011776';
 const GUILD_ID = '1532465455086960750';
