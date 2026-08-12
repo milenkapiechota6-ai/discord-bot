@@ -32,7 +32,7 @@ const client = new Client({
 // USTAWIENIA
 // =====================================================
 
-const TOKEN = 'MTUzMzUxMzQwNDY1OTAxMTc3Ng.Gc_xEp.zrI1jC-QVLJkollJAKMSOqXdIzQ352ACc0-Mn8';
+const TOKEN = process.env.TOKEN;;
 
 const CLIENT_ID = '1533513404659011776';
 const GUILD_ID = '1532465455086960750';
